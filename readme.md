@@ -13,7 +13,9 @@
   ```
   >python setup.py install
   >python setup.py py2exe
+  
   ```
+  
 ###Notes
 * Added variable number of mines to vary diffiiculty
 * Added variable dimensional grid :bangbang:
