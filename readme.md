@@ -5,7 +5,7 @@
 ![screenshot](./screenshots/screenshot.png)
 
 ##Instructions
-* **directly execute: :black_large_square: **
+* **directly execute:** :black_large_square: 
   ```
   >python minsweeper.py
   ```
