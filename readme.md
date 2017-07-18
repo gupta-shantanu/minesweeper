@@ -1,10 +1,10 @@
-#MineSweeper :bomb:
+# MineSweeper :bomb:
 >Basic Minesweeper game written in python
 > * tkinter GUI package is used
 
 ![screenshot](./screenshots/screenshot.png)
 
-##Instructions
+## Instructions
 * **directly execute:** :black_large_square: 
   ```
   >python minsweeper.py
@@ -16,6 +16,6 @@
   
   ```
   
-###Notes
+### Notes
 * Added variable number of mines to vary diffiiculty
 * Added variable dimensional grid :bangbang:
